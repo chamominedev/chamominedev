@@ -1,4 +1,5 @@
-### Hi there 👋
+### 😄김재호(Jaeho Kim) - @chamomineDev
+안녕하세요, 개발자 김재호입니다.
 
 <!--
 **chamominedev/chamominedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
