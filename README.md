@@ -4,6 +4,6 @@
 
   
 
--- 백준 티어 표기  
+// 백준 티어 표기  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chamominedev)](https://solved.ac/chamominedev)
