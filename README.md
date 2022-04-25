@@ -1,5 +1,3 @@
-<img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
-
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@chamominedev)](https://velog.io/@chamominedev)
 
 👋 Hi there! I`m backend developer passionatein API, WEB.:volcano:
