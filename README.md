@@ -1,6 +1,6 @@
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@chamominedev)](https://velog.io/@chamominedev)
 
-👋 Hi there! I am a passionate web services backend developer.:volcano:
+👋 Hi there! I am a passionate web services backend developer.:volcano:  
 I aim to have a mind that can understand clearly and accurately,  
 and can always approach with passion and curiosity unstoppable in ignorance.  
 Recently, I am interested in large-capacity processing through spring-security and JPA-based Websocket.
