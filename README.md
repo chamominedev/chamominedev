@@ -17,7 +17,7 @@ Languages & FrameWork
 
   
 ㅇㄹ  
-![Spring Security Badge](https://img.shields.io/badge/SpringSecurity-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![Spring Security Badge](https://img.shields.io/badge/SpringSecurity-F7DF1E?style=flat&logo=SpringSecurity&logoColor=black)
 
 
 
