@@ -1,4 +1,4 @@
-[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@chamominedev)](https://velog.io/@chamominedev)
+[![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat&&logo=Velog&logoColor=white&link=https://velog.io/@chamominedev)](https://velog.io/@chamominedev)
 
 👋 Hi there! I am a passionate web services backend developer.:volcano:  
 I aim to have a mind that can understand clearly and accurately,  
