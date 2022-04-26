@@ -29,8 +29,11 @@ Bulid
 
 Tools
 
+![IntelliJ_IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=IntelliJ_IDEA&logoColor=white) 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white) 
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
+
 
 
 <!-- 백준 티어 표기 -->
