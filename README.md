@@ -3,7 +3,6 @@
 👋 Hi there! I am a passionate web services backend developer.:volcano:
 
 I aim to have a mind that can understand clearly and accurately, 
-
 and can always approach with passion and curiosity unstoppable in ignorance.
 
 <!-- 백준 티어 표기 -->
