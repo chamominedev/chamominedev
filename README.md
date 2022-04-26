@@ -31,7 +31,7 @@ I like to read, listen to music, and sing.💖
 ![IntelliJ_IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white) 
 ![Eclipse_IDE Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white) 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white) 
-![SVN Badge](https://img.shields.io/badge/SubVersion-809CC9?style=flat&logo=SVN&logoColor=white) 
+![SVN Badge](https://img.shields.io/badge/SVN-809CC9?style=flat&logo=SVN&logoColor=white) 
 
 <!-- 백준 티어 표기 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chamominedev)](https://solved.ac/chamominedev)
