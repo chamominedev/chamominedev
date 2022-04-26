@@ -9,7 +9,6 @@ and can always approach with passion and curiosity unstoppable in ignorance.
 💪 Skills
  
 **Languages & FrameWork**  
-
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white) 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) 
