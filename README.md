@@ -1,5 +1,5 @@
 [![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat&&logo=Velog&logoColor=white&link=https://velog.io/@chamominedev)](https://velog.io/@chamominedev) 
-[![Gmail Badge](http://img.shields.io/badge/Gmail-EA4335?style=flat&&logo=Gmail&logoColor=white&link=mailto:chamominedev@gmail.com)](mailto:chamominedev@gmail.com) 
+[![Gmail Badge](http://img.shields.io/badge/Gmail-EA4335?style=flat&&logo=chamominedev@gmail.com&logoColor=white&link=mailto:chamominedev@gmail.com)](mailto:chamominedev@gmail.com) 
 	
 
 👋 Hi there! I am a passionate web services backend developer.:volcano:  
