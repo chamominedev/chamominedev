@@ -3,11 +3,9 @@
 👋 Hi there! I am a passionate web services backend developer.:volcano:
 
 I aim to have a mind that can understand clearly and accurately,  
-and can always approach with passion and curiosity unstoppable in ignorance.
-
-
-
-
+and can always approach with passion and curiosity unstoppable in ignorance.  
+  
+  
 💪 Skills
  
 **Languages & FrameWork**  
@@ -17,7 +15,6 @@ and can always approach with passion and curiosity unstoppable in ignorance.
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) 
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white) 
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white) 
-  
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![Spring_Boot Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
   
