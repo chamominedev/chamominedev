@@ -18,11 +18,11 @@ and can always approach with passion and curiosity unstoppable in ignorance.
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![Spring_Boot Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
   
-**DBMS**
+**DBMS**  
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)  
   
-**Tools**
+**Tools**  
 ![IntelliJ_IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=IntelliJ_IDEA&logoColor=white) 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white) 
 
