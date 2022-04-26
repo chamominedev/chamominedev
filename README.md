@@ -22,8 +22,8 @@ and can always approach with passion and curiosity unstoppable in ignorance.
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)  
   
 **Tools**  
-![IntelliJ_IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=IntelliJ_IDEA&logoColor=white) 
-![Eclipse_IDE Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=Eclipse_IDE&logoColor=white) 
+![IntelliJ_IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white) 
+![Eclipse_IDE Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white) 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white) 
 ![SubVersion Badge](https://img.shields.io/badge/SubVersion-809CC9?style=flat&logo=SVN&logoColor=white) 
 
