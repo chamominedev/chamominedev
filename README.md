@@ -9,4 +9,4 @@ and can always approach with passion and curiosity unstoppable in ignorance.
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chamominedev)](https://solved.ac/chamominedev)
 
  
-https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
+[![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)]
