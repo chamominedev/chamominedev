@@ -10,4 +10,4 @@ and can always approach with passion and curiosity unstoppable in ignorance.
 
  
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)  
-![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=black)
+![Java Badge](https://img.shields.io/badge/JavaScript-007396?style=flat&logo=Java&logoColor=black)
