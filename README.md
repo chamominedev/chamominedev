@@ -10,17 +10,21 @@ and can always approach with passion and curiosity unstoppable in ignorance.
 
 💪 Skills
  
-Languages & FrameWork
+Languages & 
 
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white) 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 
   
-ㅇㄹ  
+FrameWork  
+  
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![Spring_Boot Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![Spring_Security Badge](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
-
+  
+Bulid  
+  
+![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white)
 
 
 Tools
