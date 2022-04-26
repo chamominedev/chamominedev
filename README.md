@@ -1,9 +1,8 @@
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@chamominedev)](https://velog.io/@chamominedev)
 
-👋 Hi there! I`m backend developer passionatein API, WEB.:volcano:
-
-
-#being redecorated
+👋 Hi there! I am a passionate web services backend developer.:volcano:
+I aim to have a mind that can understand clearly and accurately, 
+and can always approach with passion and curiosity unstoppable in ignorance.
 
 <!-- 백준 티어 표기 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chamominedev)](https://solved.ac/chamominedev)
