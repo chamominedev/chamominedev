@@ -6,7 +6,7 @@
 I aim to have a mind that can understand clearly and accurately,  
 and can always approach with passion and curiosity unstoppable in ignorance.  
    
-Recently, I am interested in large-capacity processing through spring-security and JPA-based Websocket.✨
+Recently, I am interested in large-capacity processing through Websocket.
       
 I like to read, listen to music, and sing.💖  
 <br/><br/>
