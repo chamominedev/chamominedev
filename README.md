@@ -26,7 +26,7 @@ I like to read, listen to music, and sing.💖
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)  
   
-**Tools**   
+**Tools**    
    
 ![IntelliJ_IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white) 
 ![Eclipse_IDE Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white) 
