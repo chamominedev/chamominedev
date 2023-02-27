@@ -10,7 +10,7 @@ Recently, I am interested in large-capacity processing through Websocket.
       
 I like to read, listen to music, and sing.💖  
 <br/><br/>
-💪 Skills 
+💪 Skills  
       
 **Languages & FrameWork**  
   
